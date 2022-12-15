@@ -5,6 +5,7 @@ int main() {
 
     /**
      * OUTPUT FORMATTING
+     * Reference : https://en.cppreference.com/w/cpp/io/manip
      */
 
     //Sends the message directly to the terminal not cout.
